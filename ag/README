@@ -1,0 +1,8 @@
+Algoritmo desenvolvido por Isabella, João Victor e Lucas Lagôa
+
+Para compilar: 
+
+	1) primeiro código: plota o AG. Para compilar: python ag_pronto.py
+	2) segundo código: código para análises. Para compilar: python ag_analise.py
+
+OBS1: todas análises foram rodadas 100 vezes.
